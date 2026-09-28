@@ -1,6 +1,8 @@
 # Bienvenue sur le GitHub de Emmanuel KADIEBWE
 
-🎓 Étudiant en Mastère 1 Ingénieur Administration Systèmes, Réseaux et Cybersécurité | Nexa Digital School
+🎓 Étudiant en Mastère 1 Ingénieur Administration Systèmes, Réseaux et Cybersécurité 
+( Nexa Digital School)
+
 📍 Lille, France
 🔎 Actuellement à la recherche d’une alternance ou d'un stage
 
