@@ -35,6 +35,10 @@ Intégrer une équipe pour apprendre sur le terrain et développer mes compéten
 🔹 **Scripting**
 * Python, Bash, PowerShell
 
+🔹 Programmation
+* C : gestion mémoire, algorithmique
+* Java : POO, structures de données, logique algorithmique
+
 ## 📂 Projets & Labs
 
 🛠 **Durcissement Debian (ANSSI-BP-028)**
