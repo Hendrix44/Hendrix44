@@ -1,4 +1,4 @@
-# Bienvenue sur le GitHub de Hendrix (Emmanuel KADIEBWE)
+# Bienvenue sur le GitHub de Emmanuel KADIEBWE
 
 🎓 Étudiant en Mastère 1 Ingénieur Administration Systèmes, Réseaux et Cybersécurité | Nexa Digital School
 📍 Lille, France
