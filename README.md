@@ -4,6 +4,7 @@
 ( Nexa Digital School)
 
 📍 Lille, France
+
 🔎 Actuellement à la recherche d’une alternance ou d'un stage
 
 ## 🎯 Objectif
