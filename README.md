@@ -50,7 +50,6 @@ Intégrer une équipe pour apprendre sur le terrain et développer mes compéten
 
 1re place au niveau national parmi les écoles Nexa.
 
-## 💼 Expérience
 
 ## Expérience
 
