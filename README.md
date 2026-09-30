@@ -63,7 +63,7 @@ Airtel Télécommunication · République démocratique du Congo · 3 mois
 ![SecNumacadémie](https://img.shields.io/badge/ANSSI-SecNumacad%C3%A9mie-000091?style=for-the-badge)
 ![RGPD](https://img.shields.io/badge/CNIL-L%27atelier%20RGPD-E1000F?style=for-the-badge)
 
-## 📫 Contact
+## Contact
 
-* LinkedIn : https://www.linkedin.com/in/emmanuel-kadiebwe
-* Email : emmanuel@kadiebwe.eu
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emmanuel--kadiebwe-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/emmanuel-kadiebwe)
+[![Email](https://img.shields.io/badge/Email-emmanuel%40kadiebwe.eu-555555?style=for-the-badge)](mailto:emmanuel@kadiebwe.eu)
