@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&width=520&lines=Administration+Syst%C3%A8mes+et+R%C3%A9seaux;Cybers%C3%A9curit%C3%A9+(GRC%2C+SOC);En+recherche+d%27alternance+ou+de+stage)](https://github.com/Hendrix44)
 
-![Mastère](https://img.shields.io/badge/Mast%C3%A8re%201-Ing%C3%A9nieur%20Syst%C3%A8mes%2C%20R%C3%A9seaux%20et%20Cybers%C3%A9curit%C3%A9-1F6FEB?style=for-the-badge)
+![Mastère](https://img.shields.io/badge/Mast%C3%A8re%201-Ing%C3%A9nieur%20Syst%C3%A8mes%2C%20R%C3%A9seaux%20et%20Cybers%C3%A9curit%C3%A9-1F6FEB?style=for-the-badge) 
+
 ![École](https://img.shields.io/badge/%C3%89cole-Nexa%20Digital%20School-6E40C9?style=for-the-badge)
 
 ![Localisation](https://img.shields.io/badge/Localisation-Lille%2C%20France-555555?style=for-the-badge&logo=googlemaps&logoColor=white)
 
- Actuellement à la recherche d'une alternance ou d'un stage
-
+[![Recherche](https://img.shields.io/badge/Recherche-Alternance%20ou%20stage-2EA44F?style=for-the-badge)](https://www.linkedin.com/in/emmanuel-kadiebwe)
 ##  Objectif
 
 Intégrer une équipe pour apprendre sur le terrain et développer mes compétences en :
