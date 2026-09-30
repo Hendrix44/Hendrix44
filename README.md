@@ -17,8 +17,6 @@ Intégrer une équipe pour apprendre sur le terrain et développer mes compéten
 ![Cyber](https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9%20(GRC%2C%20SOC)-D73A49?style=for-the-badge)
 ![Support](https://img.shields.io/badge/Support%20IT%20%26%20gestion%20d%27infrastructure-6E7781?style=for-the-badge)
 
-##  Compétences techniques
-
 ## Compétences techniques
 
 [![Stack](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows,docker,bash,powershell,py,c,java,git&perline=12)](https://skillicons.dev)
@@ -32,8 +30,6 @@ Intégrer une équipe pour apprendre sur le terrain et développer mes compéten
 | **Supervision** | Zabbix, Splunk, Centreon |
 | **Scripting** | Python, Bash, PowerShell |
 | **Programmation** | C (gestion mémoire, algorithmique) · Java (POO, structures de données, logique algorithmique) |
-
-## 📂 Projets & Labs
 
 ## Projets & labs
 
