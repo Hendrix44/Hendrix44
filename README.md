@@ -45,18 +45,21 @@ Intégrer une équipe pour apprendre sur le terrain et développer mes compéten
 
 ![Hackathon](https://img.shields.io/badge/Hackathon%20Nexa%20Digital%20School-1re%20place%20nationale-D4A017?style=for-the-badge)
 
-1re place au niveau national parmi les écoles Nexa.
-
-
 ## Expérience
 
+![Stage](https://img.shields.io/badge/Stage-Airtel%20%C2%B7%20RDC%20%C2%B7%203%20mois-E40000?style=for-the-badge)
+
 **Stagiaire Technicien Systèmes & Réseaux**
-Airtel Télécommunication · République démocratique du Congo · 3 mois
 
 - Administration de serveurs Windows Server et Linux
 - Gestion de l'Active Directory
 - Support utilisateurs N1/N2
 - Supervision de l'infrastructure avec Zabbix
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0A4A8B?style=flat-square)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square)
 
 ## Certifications
 
