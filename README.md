@@ -4,7 +4,7 @@
 
  Étudiant en Mastère 1 Ingénieur Administration Systèmes, Réseaux et Cybersécurité (Nexa Digital School)
 
- Lille, France
+![Localisation](https://img.shields.io/badge/Lille%2C%20France-555555?style=for-the-badge&logo=googlemaps&logoColor=white)
 
  Actuellement à la recherche d'une alternance ou d'un stage
 
