@@ -62,11 +62,11 @@ Airtel Télécommunication · République démocratique du Congo · 3 mois
 - Support utilisateurs N1/N2
 - Supervision de l'infrastructure avec Zabbix
 
-## 📜 Certifications
+## Certifications
 
-* CCNA : Introduction to Networks (Cisco Networking Academy)
-* SecNumacadémie (ANSSI)
-* MOOC CNIL : L'atelier RGPD
+![CCNA](https://img.shields.io/badge/Cisco-CCNA%20Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![SecNumacadémie](https://img.shields.io/badge/ANSSI-SecNumacad%C3%A9mie-000091?style=for-the-badge)
+![RGPD](https://img.shields.io/badge/CNIL-L%27atelier%20RGPD-E1000F?style=for-the-badge)
 
 ## 📫 Contact
 
