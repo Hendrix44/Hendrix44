@@ -19,30 +19,19 @@ Intégrer une équipe pour apprendre sur le terrain et développer mes compéten
 
 ## 🧠 Compétences techniques
 
-🔹 **Systèmes**
-* Windows Server, Active Directory, GPO, MDT, Microsoft 365
-* Linux Debian / Ubuntu : administration, services, durcissement
+## Compétences techniques
 
-🔹 **Virtualisation & Sauvegarde**
-* VMware ESXi, Hyper-V, Proxmox, Docker, VirtualBox
-* Veeam
+[![Stack](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows,docker,bash,powershell,py,c,java,git&perline=12)](https://skillicons.dev)
 
-🔹 **Réseaux**
-* TCP/IP, VLAN, DNS, DHCP, routage, VPN, firewalls, switches Cisco
-
-🔹 **Cybersécurité**
-* Nmap, Snort, Metasploit, EBIOS RM, MFA, contrôle des accès
-* Analyse de risques et durcissement système
-
-🔹 **Supervision**
-* Zabbix, Splunk, Centreon
-
-🔹 **Scripting**
-* Python, Bash, PowerShell
-
-🔹 Programmation
-* C : gestion mémoire, algorithmique
-* Java : POO, structures de données, logique algorithmique
+| Domaine | Outils et compétences |
+|---|---|
+| **Systèmes** | Windows Server, Active Directory, GPO, MDT, Microsoft 365 · Linux Debian / Ubuntu : administration, services, durcissement |
+| **Virtualisation & sauvegarde** | VMware ESXi, Hyper-V, Proxmox, Docker, VirtualBox · Veeam |
+| **Réseaux** | TCP/IP, VLAN, DNS, DHCP, routage, VPN, pare-feu, switches Cisco |
+| **Cybersécurité** | Nmap, Snort, Metasploit, EBIOS RM, MFA, contrôle des accès · Analyse de risques et durcissement système |
+| **Supervision** | Zabbix, Splunk, Centreon |
+| **Scripting** | Python, Bash, PowerShell |
+| **Programmation** | C (gestion mémoire, algorithmique) · Java (POO, structures de données, logique algorithmique) |
 
 ## 📂 Projets & Labs
 
