@@ -8,7 +8,7 @@
 
  Actuellement à la recherche d'une alternance ou d'un stage
 
-## 🎯 Objectif
+##  Objectif
 
 Intégrer une équipe pour apprendre sur le terrain et développer mes compétences en :
 
@@ -17,7 +17,7 @@ Intégrer une équipe pour apprendre sur le terrain et développer mes compéten
 ![Cyber](https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9%20(GRC%2C%20SOC)-D73A49?style=for-the-badge)
 ![Support](https://img.shields.io/badge/Support%20IT%20%26%20gestion%20d%27infrastructure-6E7781?style=for-the-badge)
 
-## 🧠 Compétences techniques
+##  Compétences techniques
 
 ## Compétences techniques
 
@@ -35,20 +35,20 @@ Intégrer une équipe pour apprendre sur le terrain et développer mes compéten
 
 ## 📂 Projets & Labs
 
-🛠 **Durcissement Debian (ANSSI-BP-028)**
-* VM de lab sous Debian 13 durcie en suivant le référentiel ANSSI-BP-028
+## Projets & labs
 
-🛠 **Lab de sécurité web**
-* DVWA, Juice Shop, OWASP ZAP et Burp Suite sous Kali Linux
+| Projet | Contenu |
+|---|---|
+| **Durcissement Debian** | VM de lab sous Debian 13 durcie en suivant le référentiel ANSSI-BP-028 |
+| **Lab de sécurité web** | DVWA, Juice Shop, OWASP ZAP et Burp Suite sous Kali Linux |
+| **Infrastructure sécurisée** | Windows Server, Active Directory, VMware, sauvegardes Veeam et supervision Zabbix |
+| **Réseau & sécurité** | Infrastructure Cisco, pare-feu, VPN, audit de sécurité et documentation |
 
-🛠 **Infrastructure sécurisée**
-* Windows Server, Active Directory, VMware, sauvegardes Veeam et supervision Zabbix
+## Distinction
 
-🛠 **Réseau & sécurité**
-* Infrastructure Cisco, firewalls, VPN, audit de sécurité et documentation
+![Hackathon](https://img.shields.io/badge/Hackathon%20Nexa%20Digital%20School-1re%20place%20nationale-D4A017?style=for-the-badge)
 
-🏆 **Hackathon Nexa Digital School**
-* 1re place au niveau national parmi les écoles Nexa
+1re place au niveau national parmi les écoles Nexa.
 
 ## 💼 Expérience
 
