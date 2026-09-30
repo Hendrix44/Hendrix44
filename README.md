@@ -52,8 +52,15 @@ Intégrer une équipe pour apprendre sur le terrain et développer mes compéten
 
 ## 💼 Expérience
 
-**Stagiaire Technicien Systèmes & Réseaux** | Airtel Télécommunication (RDC) | 3 mois
-* Administration Windows Server / Linux, Active Directory, support N1/N2, supervision Zabbix
+## Expérience
+
+**Stagiaire Technicien Systèmes & Réseaux**
+Airtel Télécommunication · République démocratique du Congo · 3 mois
+
+- Administration de serveurs Windows Server et Linux
+- Gestion de l'Active Directory
+- Support utilisateurs N1/N2
+- Supervision de l'infrastructure avec Zabbix
 
 ## 📜 Certifications
 
