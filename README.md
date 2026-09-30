@@ -1,6 +1,6 @@
 # Bienvenue sur le GitHub de Emmanuel KADIEBWE
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&width=520&lines=Administration+Syst%C3%A8mes+et+R%C3%A9seaux;Cybers%C3%A9curit%C3%A9+(GRC%2C+SOC);En+recherche+d%27alternance+ou+de+stage)](https://github.com/Hendrix44)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1200&color=58A6FF&width=520&lines=Administration+Syst%C3%A8mes+et+R%C3%A9seaux;Cybers%C3%A9curit%C3%A9+(GRC%2C+SOC);En+recherche+d%27alternance+ou+de+stage)](https://github.com/Hendrix44)
 
 ![Mastère](https://img.shields.io/badge/Mast%C3%A8re%201-Ing%C3%A9nieur%20Syst%C3%A8mes%2C%20R%C3%A9seaux%20et%20Cybers%C3%A9curit%C3%A9-1F6FEB?style=for-the-badge) 
 
